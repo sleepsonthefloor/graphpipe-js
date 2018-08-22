@@ -1,0 +1,30 @@
+{
+  "name": "graphpipe",
+  "version": "1.0.1",
+  "description": "GraphPipe Client for Javascript",
+  "main": "graphpipe.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "flatbuffers": "^1.9.0",
+    "ndarray": "^1.0.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleepsonthefloor/graphpipe-js.git"
+  },
+  "keywords": [
+    "graphpipe",
+    "ml",
+    "inference"
+  ],
+  "author": "Anthony Young <sleepsonthefloor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sleepsonthefloor/graphpipe-js/issues"
+  },
+  "homepage": "https://github.com/sleepsonthefloor/graphpipe-js#readme"
+}
